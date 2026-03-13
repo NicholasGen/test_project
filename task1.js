@@ -29,8 +29,8 @@
 // }
 
 // let param = 55;
-// result = decompose(param);
-// str = "decompose " + param + " returns ";
+result = decompose(param);
+str = "decompose " + param + " returns ";
 // if (result.length > 0)
 //     str += result[0].reverse().toString()
 // else
